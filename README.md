@@ -6,7 +6,7 @@ Welcome to the CS180 course repository! We are happy to have you taking this cla
 
 We highly recommend you clone this repository to gain access to all of the lab specs and starter code. If you have not already, you will need to 1) [install git](https://www.atlassian.com/git/tutorials/install-git), and 2) [configure your SSH key to connect to GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
 
-Once your SSH key is setup, you can clone the repo with the following command: `git clone https://github.com/rhodes-byu/cs180-winter25`
+Once your SSH key is setup, you can clone the repo with the following command: `git clone https://github.com/rhodes-byu/cs-stat-180`
 
 ## Data Science Labs
 The data science labs will be in the labs folder. There will be 1 notebook file (.ipynb) per lab. Download the .ipynb and create a new [google colab notebook](https://colab.research.google.com/). You can watch a tutorial on how to use google colab [here](https://www.youtube.com/watch?v=WFvY3qgtMqM&ab_channel=MarkKeith). When you finish the exercises on the data science lab, click the "run all" button in the runtime dropdown menu. Make sure that all of the cells work without any errors thrown before turning the assignments in through Learning Suite or Canvas (whatever your professor is using). Once you've verified that your code works, download the completed notebook file and submit just the notebook file.
