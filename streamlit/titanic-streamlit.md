@@ -120,6 +120,7 @@ with col2:
 ```python
 import streamlit as st
 import pandas as pd
+import seaborn as sns
 
 st.set_page_config(page_title="Titanic Explorer", page_icon="🚢")
 
@@ -192,6 +193,7 @@ When a user selects values with a widget:
 ```python
 import streamlit as st
 import pandas as pd
+import seaborn as sns
 
 st.set_page_config(page_title="Titanic Explorer", page_icon="🚢")
 
