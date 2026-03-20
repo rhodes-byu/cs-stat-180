@@ -8,3 +8,5 @@ nb-2-pdf.py
 labs-pdf
 notebooks-pdf
 solutions
+
+__pycache__
